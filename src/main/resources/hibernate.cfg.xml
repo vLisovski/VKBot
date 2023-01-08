@@ -6,8 +6,8 @@
     <session-factory>
         <property name="connection.url">jdbc:postgresql://194.67.105.79:5432/java_bot_lisovski_db</property>
         <property name="connection.driver_class">org.postgresql.Driver</property>
-        <property name="connection.username">java_bot_lisovski_user</property>
-        <property name="connection.password">12345</property>
+        <property name="connection.username">user</property>
+        <property name="connection.password">password</property>
         <property name="dialect">org.hibernate.dialect.PostgreSQL10Dialect</property>
         <property name="show_sql">true</property>
 
